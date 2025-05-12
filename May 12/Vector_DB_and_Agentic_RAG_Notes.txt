@@ -20,5 +20,4 @@ These agents can determine what information is needed, how to query the vector d
 This approach improves accuracy and contextual understanding, especially in complex or multi-turn queries. It allows systems to be more interactive, persistent, and goal-directed. Tools like LangChain, AutoGPT, and ReAct have introduced patterns and frameworks to build such agentic behavior. Agentic RAG can include memory components, tool usage (like calling external APIs), and multi-modal capabilities.
 
 By adding agency, RAG systems evolve from static pipelines to dynamic reasoning systems. This unlocks more powerful applications in legal research, education, healthcare, and enterprise search, where high precision and adaptability are needed.
-
 In summary, Agentic RAG empowers language models to behave more like intelligent assistants—autonomously planning, retrieving, and generating answers with contextual awareness and reasoning capabilities.
