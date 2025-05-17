@@ -1,2 +1,0 @@
-String: 'Racecar' is a palindrome: True
-String: 'A man, a plan, a canal: Panama' is a palindrome: True
